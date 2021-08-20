@@ -1,0 +1,569 @@
+/* ==== extra small device ==== */
+@media(max-width:575.98px){
+    .navbar-toggler i{
+        color: #282828;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav .say_hi {
+        display: inline-block;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .email_overly {
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+    .email_collection p {
+        padding-left: 10px;
+    }
+    #product {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .celebration_offer p {
+        font-size: 18px;
+        line-height: 29px;
+    }
+    .celebration_offer {
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+    .product_item {
+        margin-top: 20px;
+    }
+    .product_details{
+        padding-right: 0;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-left: 13px;
+    }
+    .product_details p {
+        font-size: 14px;
+    }
+    .product_price{
+        padding-right: 15px;
+    }
+    .get_start_txt {
+        padding-top: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+    .get_start_txt p {
+        padding-right: 0;
+    }
+    #sales_time {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .text-center {
+        margin-top: 20px;
+    }
+    .sales_time_txt_first p {
+        padding: 40px 100px;
+    }
+    #handbags {
+        padding-top: 50px;
+        padding-bottom: 40px;
+        background: #282828;
+    }
+    #futuristic_design {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .f_txt_top h3 {
+        font-size: 18px;
+        padding-bottom: 30px;
+    }
+    .f_txt_top h4 {
+        padding-bottom: 30px;
+    }
+    .f_txt_top p {
+        padding-right: 10px;
+    }
+    .f_txt_bottom p {
+        padding-right: 10px;
+    }
+    #counter {
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+    .counter_item{
+        margin-top: 30px;
+    }    
+    .counter_item h3 {
+        padding-bottom: 15px;
+    }
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .blog_txt p {
+        padding-bottom: 15px;
+        padding-top: 30px;
+    }
+    .blog_item{
+        margin-bottom: 35px;
+    }
+    .blog_item_txt h3 {
+        padding-top: 15px;
+        line-height: 20px;
+    }
+    .blog_item_txt p {
+        padding-top: 15px;
+    }
+    .blog_main{
+        margin-top: 0;
+    }
+    #work {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .work_part h1 {
+        font-size: 25px;
+    }
+    .work_part p {
+        padding-bottom: 30px;
+        line-height: 20px;
+    }
+    #price {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #footer_top {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .footer_about {
+        padding-right: 0;
+        text-align: center;
+    }
+    .footer_about h3 {
+        padding-bottom: 12px;
+    }
+    .about_icon {
+        margin-top: 20px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    #footer_txt {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+    .footer_txt p {
+        font-size: 15px;
+    }
+}
+
+/* ==== small device ==== */
+@media(min-width:576px) and (max-width:767.98px) {
+    .navbar-toggler i{
+        color: #282828;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav .say_hi {
+        display: inline-block;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .email_overly {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .email_collection p {
+        padding-left: 10px;
+    }
+    #product {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .celebration_offer p {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .celebration_offer {
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+    .product_item_overly {
+        height: 250px;
+        width: 250px;
+    }
+    .product_details{
+        padding-right: 0;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-left: 13px;
+    }
+    .product_details p {
+        font-size: 12px;
+    }
+    .product_price{
+        padding-right: 15px;
+    }
+    .get_start_txt {
+        padding-top: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+    .get_start_txt p {
+        padding-right: 0;
+    }
+    #sales_time {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .text-center {
+        margin-top: 20px;
+    }
+    .sales_time_txt_first p{
+        padding: 40px 64px;
+    }
+    #handbags {
+        padding-top: 60px;
+        padding-bottom: 50px;
+        background: #282828;
+    }
+    #futuristic_design {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .f_txt_top h3 {
+        font-size: 18px;
+        padding-bottom: 30px;
+    }
+    .f_txt_top h4 {
+        padding-bottom: 30px;
+    }
+    .f_txt_top p {
+        padding-right: 10px;
+    }
+    .f_txt_bottom p {
+        padding-right: 10px;
+    }
+    #counter {
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+    .counter_item{
+        margin-top: 30px;
+    }    
+    .counter_item h3 {
+        padding-bottom: 15px;
+    }
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .blog_txt p {
+        padding-bottom: 15px;
+        padding-top: 30px;
+    }
+    .blog_item{
+        margin-bottom: 35px;
+    }
+    .blog_item_txt h3 {
+        padding-top: 15px;
+        line-height: 20px;
+        font-size: 15px;
+    }
+    .blog_item_txt p {
+        padding-top: 15px;
+        font-size: 13px;
+    }
+    .blog_main{
+        margin-top: 0;
+    }
+    #work {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    .work_part h1 {
+        font-size: 25px;
+    }
+    .work_part p {
+        padding-bottom: 30px;
+        line-height: 20px;
+    }
+    #price {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    .price_item{
+        margin-bottom: 20px;
+    }
+    #footer_top{
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    .footer_about{
+        padding-right: 0;    }
+    .footer_about h3{
+        padding-bottom: 12px;
+        font-size: 23px;
+    }
+    .footer_about p{
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .footer_about span{
+        font-size: 12px;
+    }
+    .about_icon {
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .about_icon i {
+        padding: 0 8px;
+        margin-right: 10px;
+        padding-bottom: 10px;
+    }
+    #footer_txt {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+    .footer_txt p {
+        font-size: 15px;
+    }
+
+}
+
+/* ======= medium device ======== */
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar-toggler i{
+        color: #282828;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav .say_hi {
+        display: inline-block;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .email_overly {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+    .email_collection p {
+        padding-left: 10px;
+    }
+    #product {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .celebration_offer {
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+    .celebration_offer p{
+        padding-bottom: 15px;
+    }
+    .product_details{
+        padding-right: 0;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-left: 13px;
+    }
+    .product_details p {
+        font-size: 14px;
+    }
+    .product_price{
+        padding-right: 15px;
+    }
+    .get_start_txt {
+        padding-top: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+    .get_start_txt p {
+        padding-right: 0;
+    }
+    #sales_time {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+    .text-center {
+        margin-top: 20px;
+    }
+    .sales_time_txt_first p{
+        padding: 40px 64px;
+    }
+    #handbags {
+        padding-top: 75px;
+        padding-bottom: 55px;
+        background: #282828;
+    }
+    #futuristic_design {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .f_txt_top h3 {
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .f_txt_top h4 {
+        padding-bottom: 15px;
+    }
+    .f_txt_top p {
+        font-size: 13px;
+        line-height: 20px;
+        padding-right: 10px;
+    }
+    .f_txt_bottom span {
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .f_txt_bottom h3 {
+        font-size: 17px;
+        padding-bottom: 20px;
+    }
+    .f_txt_bottom p {
+        padding-right: 10px;
+        font-size: 13px;
+        line-height: 20px;
+    }
+    #counter {
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+    .counter_item{
+        margin-top: 30px;
+    }    
+    .counter_item h3 {
+        padding-bottom: 15px;
+        font-size: 35px;
+    }
+    .counter_item p {
+        font-size: 18px;
+    }
+    #blog {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .blog_txt p {
+        padding-bottom: 15px;
+        padding-top: 30px;
+    }
+    .blog_item{
+        margin-bottom: 35px;
+    }
+    .blog_item_txt h3 {
+        padding-top: 15px;
+        line-height: 20px;
+        font-size: 15px;
+    }
+    .blog_item_txt p {
+        padding-top: 15px;
+        font-size: 13px;
+    }
+    .blog_main{
+        margin-top: 0;
+    }
+    #work {
+        padding-top: 65px;
+        padding-bottom: 55px;
+    }
+    #price {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    .price_item{
+        margin-bottom: 20px;
+    }
+    #footer_top{
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+    .footer_about{
+        padding-right: 0;    
+    }
+    .footer_about h3{
+        padding-bottom: 12px;
+        font-size: 23px;
+    }
+    .footer_about p{
+        font-size: 15px;
+        line-height: 25px;
+        padding-bottom: 10px;
+    }
+    .footer_about span{
+        font-size: 14px;
+    }
+    .about_icon {
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .about_icon i {
+        padding: 0 8px;
+        margin-right: 10px;
+        padding-bottom: 10px;
+    }
+    #footer_txt {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+    .footer_txt p {
+        font-size: 15px;
+    }
+}
+/* ======== large device ======= */
+@media(min-width: 992px) and (max-width: 1199.98px) {
+    .celebration_offer p {
+        line-height: 35px;
+    }
+    .get_start_txt {
+        padding-top: 40px;
+        padding-left: 50px;
+    }
+    .get_start_txt p {
+        padding-right: 70px;
+    }
+    .sales_time_txt_first p {
+        padding: 70px 100px;
+    }
+    .f_txt_top h3 {
+        padding-bottom: 30px;
+        font-size: 20px;
+    }
+    .f_txt_top h4 {
+        padding-bottom: 20px;
+    }
+    .f_txt_top p {
+        font-size: 15px;
+    }
+    .f_txt_bottom p {
+        font-size: 15px;
+    }
+    .f_txt_bottom h4 {
+        padding-top: 22px;
+    }
+    .work_part h1 {
+        font-size: 30px;
+    }
+    .footer_about p {
+        font-size: 16px;
+    }
+}
+
+@media(min-width: 1200px) and (max-width:1399.98px) {
+    .f_txt_bottom h4 {
+        padding-bottom: 25px;
+        padding-top: 30px;
+    }
+    .f_txt_top p {
+        padding-bottom: 43px;
+    }
+}
